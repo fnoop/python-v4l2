@@ -1,6 +1,9 @@
 python-v4l2
 ===========
 
+Note: This code is updated with a fix for python3:
+https://bugs.launchpad.net/python-v4l2/+bug/1664158/comments/3
+
 A Python binding for the v4l2 (video4linux2) userspace api, using
 ctypes.  Basic example usage::
 
